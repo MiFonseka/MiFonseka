@@ -9,8 +9,7 @@ My main experience includes working with:
 - Windows & Linux system support
 
 I'm currently learning:
-- HTML, CSS, JavaScript
-- Full Stack Development fundamentals
+- Python
 
 Fun Facts:
 - Dog owner
